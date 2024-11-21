@@ -1,0 +1,8 @@
+Instruções de uso
+
+- Sempre deixar o aplicativo no mesmo diretório da planilha.
+- Insira os dados da seguinte maneira:
+Data: Dia/Mês
+Hora: 00
+
+- Ao clicar duas vezes no item inserido, poderás editá-lo.
